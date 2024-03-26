@@ -18,5 +18,3 @@ sudo apt-get install git-lfs
 git-lfs install
 git clone https://huggingface.co/DAMO-NLP-SG/Video-LLaMA-2-7B-Finetuned
 
-
-git clone https://huggingface.co/ShuhuaiRen/TimeChat-7b
